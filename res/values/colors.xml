@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="notDownloaded">#40ffffff</color>
+    <color name="defaultColor">#ffffffff</color>
+</resources>

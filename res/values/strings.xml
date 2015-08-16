@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">افضل الشيلات</string>
+    <string name="menu_settings">Settings</string>
+    <string name="notify_bar_words">افضل الشيلات</string>
+	<string name="tv_about">
+	    برنامج افضل الشيلات\n
+برنامج مميز وفريد من نوعه حيث يمكنك تحميل الشيلات او الاستماع لها عبر الانترنت 
+..\n
+في اي وقت او مكان ويتميز بواجهة بسيطة وتصميم انيق .
+	</string>
+	
+	 <string name="banner_ad_unit_id">
+ca-app-pub-2714169881651767/8828147530</string>
+</resources>
